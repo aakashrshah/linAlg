@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/module1/demos/equationsDemo"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/aakashshah/Documents/Java/workspace/linAlg/jars/draw3d.jar"/>
+	<classpathentry kind="lib" path="/Users/aakashshah/Documents/Java/workspace/linAlg/jars/lintool.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

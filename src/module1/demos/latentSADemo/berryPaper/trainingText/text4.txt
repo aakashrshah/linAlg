@@ -1,0 +1,2 @@
+ideals, varieties, and algorithms an introduction to
+computational algebraic geometry and commutative algebra
