@@ -22,13 +22,13 @@ public class CurveFittingDemo {
 	ellipse (0);
 
 	// Second example: also four points, but from different parts.
-	//ellipse (1);
+//	ellipse (1);
 
 	// Third example: four points, now with some noise.
-	//ellipse (2);
+//	ellipse (2);
 
 	// Fourth example: many points, with noise.
-	//ellipse (3);
+//	ellipse (3);
     }
 
 

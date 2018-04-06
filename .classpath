@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src/module1/demos/equationsDemo"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/aakashshah/Documents/Java/workspace/linAlg/jars/draw3d.jar"/>
-	<classpathentry kind="lib" path="/Users/aakashshah/Documents/Java/workspace/linAlg/jars/lintool.jar"/>
+	<classpathentry kind="src" path="src/module1/demos/curveFittingDemo"/>
+	<classpathentry kind="src" path="src/aakash_a1"/>
+	<classpathentry kind="src" path="src/module4"/>
+	<classpathentry kind="src" path="src/module2"/>
+	<classpathentry kind="src" path="src/module6"/>
+	<classpathentry kind="src" path="src/module7"/>
+	<classpathentry kind="src" path="src/aakash_a2"/>
+	<classpathentry kind="src" path="src/module5"/>
+	<classpathentry kind="src" path="src/module9"/>
+	<classpathentry kind="src" path="src/module10"/>
+	<classpathentry kind="src" path="src/aakash_a3"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Users/aakashshah/Documents/Java/workspace/linAlg/jars/draw3d.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/aakash_a3/edu/aakash/lintool3/lintool.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
